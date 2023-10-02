@@ -1,8 +1,7 @@
-Claro! Aqui está um exemplo de README para sua landing page:
 
-# Landing Page de Produtos
+# landing-page-nike
 
-Esta é uma landing page de produtos desenvolvida utilizando a última versão do Vite e Tailwind CSS.
+Esta é uma landing page de produtos desenvolvida utilizando o Vite e Tailwind CSS.
 
 ## Seções
 
