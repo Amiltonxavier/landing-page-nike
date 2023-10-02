@@ -1,7 +1,7 @@
 
 # landing-page-nike
 
-Esta é uma landing page de produtos desenvolvida utilizando o Vite e Tailwind CSS.
+A landing page para tênis da marca Nice desenvolvida com Vite e Tailwind CSS é moderna, responsiva e destaca os recursos exclusivos dos tênis, com imagens vibrantes, descrições concisas e um design elegante.
 
 ## Seções
 
