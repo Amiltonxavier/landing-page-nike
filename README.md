@@ -15,7 +15,7 @@ A landing page para tênis da marca Nice desenvolvida com Vite e Tailwind CSS é
 
   
 ## Funciomento da aplicação
-![Demonstração do funcionamento da aplicação](./public/screenshots/screencapture-localhost-5173-2023-10-02-21_52_10.png)
+![Demonstração do funcionamento da aplicação](./public/screencapture-localhost-5173-2023-10-02-21_52_10.png)
 
 ## Instalação
 
